@@ -1,0 +1,4 @@
+---- TulingUser_t Matches (4 in 2 files) ----
+Tuling_app_speech.c (project\mt7686_hdk\apps\lightduer_app\src\tuling):static TulingUser_t *tulingUser = NULL;
+Tuling_app_speech.c (project\mt7686_hdk\apps\lightduer_app\src\tuling):	tulingUser = (TulingUser_t *)calloc(1,sizeof(TulingUser_t));
+Tuling_app_speech.h (project\mt7686_hdk\apps\lightduer_app\inc\tuling):} TulingUser_t;
